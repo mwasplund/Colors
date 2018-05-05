@@ -1,0 +1,10 @@
+{
+  "name": "Colors",
+  "version": "1.0.0",
+  "dependencies": [],
+  "public": [],
+  "source": [
+    "src/*.h",
+    "src/*.cpp"
+  ]
+}
