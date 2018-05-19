@@ -84,5 +84,7 @@ SOUP_PKG_ACTIVE namespace SOUP_PKG_VERSION
 		float m_b;
 		float m_a;
 	};
+
+	std::wostream& operator<<(std::wostream& stream, const ColorF& value);
 } // namespace Version
 } // namespace Colors
