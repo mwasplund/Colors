@@ -1,5 +1,5 @@
 Name = "Colors"
-Version = "0.1.0"
+Version = "0.1.1"
 Public = "src/Colors.cpp"
 
 DevDependencies = [
